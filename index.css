@@ -1,0 +1,23 @@
+* {
+  padding: 10;
+  margin: 10;
+  box-sizing: border-box;
+}
+.ExampleDomain {
+  margin-top: 8rem;
+  background-color: silver;
+  color: #000;
+  padding: 3rem 1rem;
+  height: 404.875px;
+  width: 1024px;
+}
+p {
+  font-size: 20px;
+}
+body {
+  width: 60%;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
